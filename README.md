@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @MargoSolo
 - 👀 I’m interested in science, WEB3, medicine
-- 🌱 I’m currently learning biostatistics and data analytics
+
+Experienced biomedical data analyst with expertise in analyzing and interpreting complex data to inform medical decision-making
+Skilled pediatrician with a passion for improving the health and well-being of children
+Accomplished clinical research specialist with a track record of contributing to the advancement of medical knowledge through rigorous research studies
+Proficient in Python and R, two widely-used programming languages for data analysis and visualization
+Alumni of Ecole 42, a prestigious coding school known for its innovative and intensive education program
+Combines a strong scientific background with technical skills to bring a unique perspective to data-driven healthcare projects
+
 -  How to reach me: [Telegram](https://t.me/marga21school)
 <!---
 MargoSolo/MargoSolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
