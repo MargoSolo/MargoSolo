@@ -15,17 +15,20 @@ Combines a strong scientific background with technical skills to bring a unique 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>&nbsp;&nbsp;
 </p>
-
+<!---
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&include_all_commits=true&theme=dark" height="180px"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=dark" height="180px" alt="MargoSolo"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MargoSolo&theme=dark" height="180px" alt="MargoSolo"></a>
 </p>
 <p align="center">
+
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MargoSolo" alt="MargoSolo" /></a>
 </p>  
-  
-  
+ ---> 
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MargoSolo" alt="MargoSolo" /></a>
+</p>   
 <!---
 MargoSolo/MargoSolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
