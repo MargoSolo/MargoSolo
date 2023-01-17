@@ -32,6 +32,8 @@ Combines a strong scientific background with technical skills to bring a unique 
  <img alt="octocat" width=15% src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
   
 </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
 <!---
 ### GitHub Analytics
 
