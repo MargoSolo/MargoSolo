@@ -10,13 +10,7 @@ Combines a strong scientific background with technical skills to bring a unique 
 
 -  How to reach me: [Telegram](https://t.me/marga21school)
 
-<p align='center'>
-  <a href="[https://www.linkedin.com/in/kresna-sucandra/](https://www.linkedin.com/in/margarita-soloshenko-872619a2/)">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-  </a>&nbsp;&nbsp;
-</p>
  
-  
   
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&include_all_commits=true&theme=dark" height="180px"></a>
