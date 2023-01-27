@@ -28,10 +28,5 @@ Combines a strong scientific background with technical skills to bring a unique 
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
-<!---
-### GitHub Analytics
-
-[![Stats](https://github-readme-stats.vercel.app/api/?username=MargoSolo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-
+ 
 
