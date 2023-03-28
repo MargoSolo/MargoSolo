@@ -13,13 +13,13 @@ Combines a strong scientific background with technical skills to bring a unique 
  
   
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&include_all_commits=true&theme=dark" height="180px"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=dark" height="180px" alt="MargoSolo"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MargoSolo&theme=dark" height="180px" alt="MargoSolo"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&include_all_commits=true&theme=light" height="180px"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=light" height="180px" alt="MargoSolo"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MargoSolo&theme=light" height="180px" alt="MargoSolo"></a>
  
 </p>
  
-<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=MargoSolo&theme=onedark" alt="MargoSolo" /></a> </p>
+<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=MargoSolo&theme=light" alt="MargoSolo" /></a> </p>
  
 
  <p align="center">
