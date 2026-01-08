@@ -1,35 +1,42 @@
- # [Welcome!](https://blognas.hwb0307.com) ✨ <a href="https://blognas.hwb0307.com"><img src="https://komarev.com/ghpvc/?username=MargoSolo&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
-- 👋 Hi, I’m @MargoSolo
-- 👀 I’m interested in science, medicine
+# Hi, I'm Margo 👋 
+### MD, Pediatrician & Clinical Data Scientist
 
+Bridging the gap between **high-stakes clinical practice** and **robust data engineering**. 
+As an Ecole 42 alumni and an experienced pediatrician, I specialize in translating complex medical questions into actionable data-driven insights.
 
+---
 
-Experienced biomedical data analyst with expertise in analyzing and interpreting complex data to inform medical decision-making
-Skilled pediatrician with a passion for improving the health and well-being of children
-Accomplished clinical research specialist with a track record of contributing to the advancement of medical knowledge through rigorous research studies
-Proficient in Python and R, two widely-used programming languages for data analysis and visualization
-Alumni of Ecole 42, a prestigious coding school known for its innovative and intensive education program
-Combines a strong scientific background with technical skills to bring a unique perspective to data-driven healthcare projects
+## 🚀 Professional Focus
+* **Clinical Informatics:** Leveraging EHR data to improve patient outcomes.
+* **Predictive Modeling:** Building validated models (beyond AUC) with a focus on calibration and Net Benefit.
+* **Biostatistics:** Applying rigorous epidemiological methods to real-world evidence (RWE).
+* **Medical Software:** Developing intuitive Shiny/Python tools for clinical decision support.
 
--  How to reach me: [Telegram](https://t.me/marga21school)
+---
 
- 
-  
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&include_all_commits=true&theme=light" height="180px"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=light" height="180px" alt="MargoSolo"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MargoSolo&theme=light" height="180px" alt="MargoSolo"></a>
- 
+## 🛠 Tech Stack & Expertise
+
+| Domain | Tools & Skills |
+| :--- | :--- |
+| **Data Science** | R (tidyverse, dcurves, tidymodels), Python (pandas, scikit-learn, PyTorch) |
+| **Clinical** | Pediatrics, Clinical Research, EHR Analysis, Epidemiology |
+| **Engineering** | C/C++, Linux (Ecole 42 background), Git, SQL, Shiny |
+| **Research** | Survival Analysis, Decision Curve Analysis, Causal Inference |
+
+---
+
+## 📊 Impact & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777" height="160" />
 </p>
- 
-<p align="center"> <a href="https://hybridoitc.com"><img src="https://github-profile-trophy.vercel.app/?username=MargoSolo&theme=light" alt="MargoSolo" /></a> </p>
- 
 
- <p align="center">
- <img alt="octocat" width=15% src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-  
-</p>
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
- 
+## 📬 Connect with Me
+* **LinkedIn:** [Margarita Soloshenko](https://www.linkedin.com/in/margarita-soloshenko/) — *I share insights on Clinical Epi & AI*
+* **Expertise:** Pediatric Medicine | Biomedical Data Analytics | Research Strategy
 
+---
+*"Medicine is an art based on science, and data is the lens that brings it into focus."*
