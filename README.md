@@ -2,7 +2,7 @@
 
 **Clinical Genetics • Computational Biology • Biostatistics**
 
-Biostatistician developing bioinformatics pipelines for rare disease diagnostics and genetic variant analysis. Publications in NEJM, JAMA, The Lancet.
+Biostatistician developing bioinformatics pipelines for rare disease diagnostics and genetic variant analysis 
 
 ---
 
@@ -19,15 +19,7 @@ Biostatistician developing bioinformatics pipelines for rare disease diagnostics
 
 - Processed pseudogene regulatory effect prediction models
 - Temporal phenotypic trajectory analysis using HPO ontologies
-- UMAP-based phenotypic space visualization  
- 
-
-## 📊 Impact & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777" height="160" alt="MargoSolo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777" height="160" alt="MargoSolo's Top Languages" />
-</p>
+- UMAP-based phenotypic space visualization   
 
 ## Contact
 
