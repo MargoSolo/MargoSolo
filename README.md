@@ -15,28 +15,12 @@ Biostatistician developing bioinformatics pipelines for rare disease diagnostics
 
 ---
 
-## Current Work
+## Current Work 
 
-- 8,000-case rare disease genomics pipeline with AlphaGenome scoring
 - Processed pseudogene regulatory effect prediction models
 - Temporal phenotypic trajectory analysis using HPO ontologies
-- UMAP-based phenotypic space visualization for biobank data
-
----
-
-## Key Projects
-
-**AlphaGenome-Based Pseudogene Analysis**  
-Dual-orientation pipeline for predicting regulatory effects of processed pseudogene insertions. Integrated official scoring formulas across 47 pseudogenes with multi-modal genomic analysis.
-
-**Clinical Genetics Diagnostic Systems**  
-ML-based pathogenicity classification for Mendelian diseases. Hierarchical clustering and decision support tools for neuromuscular disorders.
-
-**Pharmaceutical Epidemiology**  
-Real-world evidence analysis for hepatitis C treatment outcomes and antipsychotic medication effects. Market analysis and procurement optimization models.
-
----
-
+- UMAP-based phenotypic space visualization  
+ 
 ## Stats
 
 <p align="center">
@@ -49,4 +33,5 @@ Real-world evidence analysis for hepatitis C treatment outcomes and antipsychoti
 ## Contact
 
 <a href="https://www.linkedin.com/in/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://t.me/marga21school"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>n/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://t.me/marga21school"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
