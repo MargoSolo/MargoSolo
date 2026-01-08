@@ -1,6 +1,6 @@
 # Margarita Soloshenko
 
-**Clinical Genetics • Computational Biology • Biostatistics**
+**Clinical Genetics • Biostatistics**
 
 Biostatistician developing bioinformatics pipelines for rare disease diagnostics and genetic variant analysis 
 
