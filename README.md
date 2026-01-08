@@ -21,17 +21,14 @@ Biostatistician developing bioinformatics pipelines for rare disease diagnostics
 - Temporal phenotypic trajectory analysis using HPO ontologies
 - UMAP-based phenotypic space visualization  
  
-## Stats
+
+## 📊 Impact & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777&hide=stars" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777&hide=html,css" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777" height="160" alt="MargoSolo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777" height="160" alt="MargoSolo's Top Languages" />
 </p>
-
----
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://t.me/marga21school"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>n/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://t.me/marga21school"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.linkedin.com/in/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
