@@ -1,42 +1,52 @@
-# Hi, I'm Margo 👋 
-### MD, Pediatrician & Clinical Data Scientist
+# Margarita Soloshenko
 
-Bridging the gap between **high-stakes clinical practice** and **robust data engineering**. 
-As an Ecole 42 alumni and an experienced pediatrician, I specialize in translating complex medical questions into actionable data-driven insights.
+**Clinical Genetics • Computational Biology • Biostatistics**
 
----
-
-## 🚀 Professional Focus
-* **Clinical Informatics:** Leveraging EHR data to improve patient outcomes.
-* **Predictive Modeling:** Building validated models (beyond AUC) with a focus on calibration and Net Benefit.
-* **Biostatistics:** Applying rigorous epidemiological methods to real-world evidence (RWE).
-* **Medical Software:** Developing intuitive Shiny/Python tools for clinical decision support.
+Biostatistician developing bioinformatics pipelines for rare disease diagnostics and genetic variant analysis. Publications in NEJM, JAMA, The Lancet.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## Technical Stack
 
-| Domain | Tools & Skills |
-| :--- | :--- |
-| **Data Science** | R (tidyverse, dcurves, tidymodels), Python (pandas, scikit-learn, PyTorch) |
-| **Clinical** | Pediatrics, Clinical Research, EHR Analysis, Epidemiology |
-| **Engineering** | C/C++, Linux (Ecole 42 background), Git, SQL, Shiny |
-| **Research** | Survival Analysis, Decision Curve Analysis, Causal Inference |
+**Genomics:** AlphaGenome integration, pseudogene pathogenicity prediction, variant interpretation pipelines  
+**Analysis:** Python (pandas, scikit-learn, PyTorch), R (tidyverse, tidymodels), survival analysis, causal inference  
+**Clinical:** Pharmacoepidemiology, rare disease diagnostics, HPO phenotype modeling, regulatory genomics  
+**Infrastructure:** C/C++ (Ecole 42), Linux, SQL, Git
 
 ---
 
-## 📊 Impact & Stats
+## Current Work
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777" height="160" />
+- 8,000-case rare disease genomics pipeline with AlphaGenome scoring
+- Processed pseudogene regulatory effect prediction models
+- Temporal phenotypic trajectory analysis using HPO ontologies
+- UMAP-based phenotypic space visualization for biobank data
+
+---
+
+## Key Projects
+
+**AlphaGenome-Based Pseudogene Analysis**  
+Dual-orientation pipeline for predicting regulatory effects of processed pseudogene insertions. Integrated official scoring formulas across 47 pseudogenes with multi-modal genomic analysis.
+
+**Clinical Genetics Diagnostic Systems**  
+ML-based pathogenicity classification for Mendelian diseases. Hierarchical clustering and decision support tools for neuromuscular disorders.
+
+**Pharmaceutical Epidemiology**  
+Real-world evidence analysis for hepatitis C treatment outcomes and antipsychotic medication effects. Market analysis and procurement optimization models.
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MargoSolo&show_icons=true&theme=transparent&hide_border=true&title_color=6DDCCF&icon_color=6DDCCF&text_color=777&hide=stars" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MargoSolo&layout=compact&theme=transparent&hide_border=true&title_color=6DDCCF&text_color=777&hide=html,css" height="160" alt="Top Languages" />
 </p>
 
 ---
 
-## 📬 Connect with Me
-* **LinkedIn:** [Margarita Soloshenko](https://www.linkedin.com/in/margarita-soloshenko/) — *I share insights on Clinical Epi & AI*
-* **Expertise:** Pediatric Medicine | Biomedical Data Analytics | Research Strategy
+## Contact
 
----
-*"Medicine is an art based on science, and data is the lens that brings it into focus."*
+<a href="https://www.linkedin.com/in/margarita-soloshenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://t.me/marga21school"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
