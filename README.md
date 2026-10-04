@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="banner.png" width="100%" alt="Margarita Soloshenko">
+</p>
 # Margarita Soloshenko
 
 **Clinical Genetics • Biostatistics**
